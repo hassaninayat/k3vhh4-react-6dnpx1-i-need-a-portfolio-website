@@ -1,4 +1,4 @@
-```tsx
+
 import React from 'react';
 import { Navbar, Footer } from './components/ui';
 import { Home, About, Projects, Blog, Contact } from './components';
@@ -20,4 +20,3 @@ const App: React.FC = () => {
 };
 
 export default App;
-```

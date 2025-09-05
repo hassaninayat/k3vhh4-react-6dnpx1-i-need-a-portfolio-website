@@ -1,4 +1,4 @@
-```tsx
+
 import React from 'react';
 import { LucideIcon } from 'lucide-react';
 
@@ -19,5 +19,4 @@ const Navbar: React.FC = () => {
   );
 };
 
-export default Navbar;
-```
+export default 

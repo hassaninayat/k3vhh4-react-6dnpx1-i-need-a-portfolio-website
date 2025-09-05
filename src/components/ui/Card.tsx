@@ -1,4 +1,4 @@
-```tsx
+
 import React from 'react';
 
 interface CardProps {
@@ -14,4 +14,3 @@ const Card: React.FC<CardProps> = ({ children }) => {
 };
 
 export default Card;
-```

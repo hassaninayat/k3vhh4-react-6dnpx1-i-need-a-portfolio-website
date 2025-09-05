@@ -1,4 +1,4 @@
-```css
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,4 +6,3 @@
 body {
   @apply bg-muted-light text-muted-dark;
 }
-```

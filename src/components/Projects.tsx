@@ -1,4 +1,4 @@
-```tsx
+
 import React from 'react';
 import { Card } from './ui';
 
@@ -21,4 +21,3 @@ const Projects: React.FC = () => {
 };
 
 export default Projects;
-```
