@@ -1,0 +1,11 @@
+```json
+{
+  "components": [
+    "Button",
+    "Card",
+    "Input",
+    "Navbar",
+    "Footer"
+  ]
+}
+```
